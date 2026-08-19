@@ -109,3 +109,6 @@ yarn.lock
 
 test/local-config.js
 
+ledger_csv
+mise.toml
+CLAUDE.md
